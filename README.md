@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhinav Singh</h1>
-<h3 align="center">A passionate Full Stack Developer with an Edge of Blockchain Technology.</h3>
+<h3 align="center">A passionate Full Stack Developer with an Edge of Artificial intelligence .</h3>
 <img src="blockchain.gif" align ="center" width ="450px" height="250px">
-- 🔭 I have Worked as Freelancer [DhyeyaIasWebsite](https://dhyeyaiasalambagh.netlify.app)
+- 🔭 I have Work as a full stack developer 
 
 - 🌱 I have worked on **React.js,Node.js,GraphQl,Microservices, Postman**
 
-- 👯 I’m looking to collaborate on **Backend developement with java**
+- 👯 I’m looking to collaborate on **Backend developement with node js**
 
 - 👨‍💻 All of my projects are available at [https://abhinavsportfolio.netlify.app/](https://abhinavsportfolio.netlify.app/)
 
