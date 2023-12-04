@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Abhinav Singh</h1>
-<h3 align="center">A passionate Full Stack Developer with an Edge of Artificial intelligence .</h3>
+<h1 align="Left">Hi 👋, I'm Abhinav Singh</h1>
+<h3 align="center">A passionate Full Stack (Web and App)Developer with an Edge of Artificial intelligence .</h3>
 <img src="blockchain.gif" align ="center" width ="450px" height="250px">
-- 🔭 I have Work as a full stack developer 
+- 🔭 I have Worked as a full stack developer  
 
 - 🌱 I have worked on **React.js,Node.js,GraphQl,Microservices, Postman**
 
-- 👯 I’m looking to collaborate on **Backend developement with node js**
+- 👯 I’m looking to give service on **Web and App developement with complete devops support**
 
 - 👨‍💻 All of my projects are available at [https://abhinavsportfolio.netlify.app/](https://abhinavsportfolio.netlify.app/)
 
-- 💬 Ask me about **Web Developement, Blockchain**
+- 💬 Ask me about **Web Developement, App developement and software developement **
 
 - 📫 How to reach me **abhinav251097singh@gmail.com**
 
