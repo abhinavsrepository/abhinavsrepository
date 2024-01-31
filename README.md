@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abhinavsportfolio.netlify.app/](https://abhinavsportfolio.netlify.app/)
 
-- 💬 Ask me about **Web Developement, App developement and software developement **
+- 💬 Ask me about **Web Developement, App developement and System design developement **
 
 - 📫 How to reach me **abhinav251097singh@gmail.com**
 
