@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav Singh</h1>
 <h3 align="center">A passionate Full Stack (Web and App)Developer with an Edge of Artificial intelligence .</h3>
 <img src="coder.gif" align ="right" width ="350px" height="280px"/>
-- 🔭 I am Working as a full stack developer  
+- 🔭 I am Working as a full stack developer at Iris Design.
 
 - 🌱 I have worked on **React.js,Node.js,GraphQl,Microservices, Postman**
 
