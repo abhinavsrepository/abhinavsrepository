@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abhinav Singh</h1>
 <h3 align="center">A passionate Full Stack (Web and App)Developer with an Edge of Artificial intelligence .</h3>
 <img src="coder.gif" align ="right" width ="350px" height="280px"/>
-- 🔭 I am Working as a full stack developer at Iris Design.
+-  I am Working as a full stack developer at Iris Design.
 
-- 🌱 I have worked on **React.js,Node.js,GraphQl,Microservices, Postman**
+- I have worked on ** SHOPIFY(CODE) , WordPress , WIX **
 
-- 👯 I’m looking to give service on **Web and App developement with complete devops support**
+-  I’m looking to give service on **Web(React/Next js) and App development(React Native) with complete DevOps support**
 
-- 👨‍💻 All of my projects are available at [https://abhinavsportfolio.netlify.app/](https://abhinavsportfolio.netlify.app/)
+-  All of my projects are available at [https://abhinavsportfolio.netlify.app/](https://abhinavsportfolio.netlify.app/)
 
-- 💬 Ask me about **Web developement, App developement and System design **
+-  Ask me about **Web development, App development With AI Integration **
 
-- 📫 How to reach me **abhinav251097singh@gmail.com**
+-  How to reach me **abhinavsingh9b@gmail.com**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
